@@ -1,0 +1,7 @@
+.box {
+  border: 10px solid rgb(90, 224, 248);
+  padding: 10px;
+  background-color: rgb(253, 255, 153);
+  width: 92%;
+  box-sizing: border-box;
+}
